@@ -8,7 +8,6 @@ The MainActivity consists of 3 fragments:
   When the user clicks on any of the item in the recyclerview, a dialog box displays basic details about the artist/album.
   
   Libraries Used:
-  Volley 
-  Picasso
+  Volley and Picasso
   
   
